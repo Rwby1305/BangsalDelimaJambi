@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20432023446",
+    "project_id": "bangsal-delima-jambi-5f547",
+    "storage_bucket": "bangsal-delima-jambi-5f547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20432023446:android:a7f97518ace56d2d1c77b7",
+        "android_client_info": {
+          "package_name": "com.reynaldiyudhistira.bangsaldelimajambi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20432023446-jt17qh17iufngkq7114f0ql5d00dlk6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4gJJ3ultmtq2qFBSXlZIRlPEGyPpleU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20432023446-jt17qh17iufngkq7114f0ql5d00dlk6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
